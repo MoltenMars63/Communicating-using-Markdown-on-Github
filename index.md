@@ -3,3 +3,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
   
+- [x] header complete
+- [x] image post complete
+- [x] code example complete
+- [ ] list example
